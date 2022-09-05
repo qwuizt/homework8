@@ -1,0 +1,15 @@
+/Users/aleksej/Desktop/homewrok8_programm/task56/bin/Debug/net6.0/task56
+/Users/aleksej/Desktop/homewrok8_programm/task56/bin/Debug/net6.0/task56.deps.json
+/Users/aleksej/Desktop/homewrok8_programm/task56/bin/Debug/net6.0/task56.runtimeconfig.json
+/Users/aleksej/Desktop/homewrok8_programm/task56/bin/Debug/net6.0/task56.dll
+/Users/aleksej/Desktop/homewrok8_programm/task56/bin/Debug/net6.0/task56.pdb
+/Users/aleksej/Desktop/homewrok8_programm/task56/obj/Debug/net6.0/task56.csproj.AssemblyReference.cache
+/Users/aleksej/Desktop/homewrok8_programm/task56/obj/Debug/net6.0/task56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksej/Desktop/homewrok8_programm/task56/obj/Debug/net6.0/task56.AssemblyInfoInputs.cache
+/Users/aleksej/Desktop/homewrok8_programm/task56/obj/Debug/net6.0/task56.AssemblyInfo.cs
+/Users/aleksej/Desktop/homewrok8_programm/task56/obj/Debug/net6.0/task56.csproj.CoreCompileInputs.cache
+/Users/aleksej/Desktop/homewrok8_programm/task56/obj/Debug/net6.0/task56.dll
+/Users/aleksej/Desktop/homewrok8_programm/task56/obj/Debug/net6.0/refint/task56.dll
+/Users/aleksej/Desktop/homewrok8_programm/task56/obj/Debug/net6.0/task56.pdb
+/Users/aleksej/Desktop/homewrok8_programm/task56/obj/Debug/net6.0/task56.genruntimeconfig.cache
+/Users/aleksej/Desktop/homewrok8_programm/task56/obj/Debug/net6.0/ref/task56.dll
